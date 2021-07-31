@@ -61,19 +61,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## ⛈  Desafios do projecto
 ### Migrar os arquivos para Typescript e refactorar os seguintes arquivos
-  - [ ] src/components/Food/index.jsx
-  - [ ] src/components/Food/styles.js;
+  - [x] src/components/Food/index.jsx
+  - [x] src/components/Food/styles.js;
   - [x] src/components/Header/styles.js;
   - [x] src/components/Header/index.jsx;
-  - [ ] src/components/Input/index.jsx;
-  - [ ] src/components/Input/styles.js;
-  - [ ] src/components/Modal/index.jsx;
-  - [ ] src/components/ModalAddFood/index.jsx;
-  - [ ] src/components/ModalAddFood/styles.js;
-  - [ ] src/components/ModalEditFood/index.jsx;
-  - [ ] src/components/ModalEditFood/styles.js;
-  - [ ] src/pages/Dashboard/index.jsx;
-  - [ ] src/pages/Dashboard/styles.js;
+  - [x] src/components/Input/index.jsx;
+  - [x] src/components/Input/styles.js;
+  - [x] src/components/Modal/index.jsx;
+  - [x] src/components/ModalAddFood/index.jsx;
+  - [x] src/components/ModalAddFood/styles.js;
+  - [x] src/components/ModalEditFood/index.jsx;
+  - [x] src/components/ModalEditFood/styles.js;
+  - [x] src/pages/Dashboard/index.jsx;
+  - [x] src/pages/Dashboard/styles.js;
   - [x] src/routes/index.jsx;
   - [x] src/services/api.js;
   - [x] src/styles/global.js;
